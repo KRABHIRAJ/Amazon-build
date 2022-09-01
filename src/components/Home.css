@@ -1,0 +1,34 @@
+.home{
+    max-width: 97vw;
+    margin: auto;
+}
+
+.carousel__image{
+    z-index: -1;
+    height: 100%;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+.home__carousel{
+    margin-bottom: -250px;
+}
+@media(max-width:768px){
+    .home__carousel{
+        margin-bottom: -80px;
+    }
+    .home{
+        max-width: 100vw;
+    }
+}
+
+
+.home__body{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.product__row{
+    display: flex;
+    z-index: 1;
+    margin: 0 5px;
+}
