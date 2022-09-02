@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amazon-build/static/css/main.884cf852.css",
+    "main.js": "/Amazon-build/static/js/main.ae17502f.js",
+    "static/js/787.37a98037.chunk.js": "/Amazon-build/static/js/787.37a98037.chunk.js",
+    "index.html": "/Amazon-build/index.html",
+    "main.884cf852.css.map": "/Amazon-build/static/css/main.884cf852.css.map",
+    "main.ae17502f.js.map": "/Amazon-build/static/js/main.ae17502f.js.map",
+    "787.37a98037.chunk.js.map": "/Amazon-build/static/js/787.37a98037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884cf852.css",
+    "static/js/main.ae17502f.js"
+  ]
+}
